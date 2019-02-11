@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541001327 source:/home/wraith/Desktop/bug/laba2/main.cpp
+	"stdio.h"
+	"cmath"
+	<fstream>
+	<vector>
+	<iomanip>
+	<stdio.h>
+	<math.h>
+	<iostream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1536770635 source:/home/wraith/Desktop/bug/lesson1var8/main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	"stdlib.h"
+
